@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "using express js and node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Soumitra Samanta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
